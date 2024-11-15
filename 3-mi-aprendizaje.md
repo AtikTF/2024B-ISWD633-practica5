@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+Aprendí a configurar healthchecks para monitorizar el estado de los servicios, lo cual es fundamental para garantizar la estabilidad de una aplicación. También comprendí la utilidad de la opción depends_on con la condición service_healthy para asegurar que los servicios dependan de otros solo cuando estén en buen estado.
+Después de completar la tarea, mis aprendizajes principales se centraron en la importancia de definir correctamente las variables de entorno para conectar servicios de forma eficiente y cómo los volúmenes garantizan la persistencia de los datos
